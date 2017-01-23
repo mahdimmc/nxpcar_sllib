@@ -1,0 +1,3 @@
+== Install == 
+To install this Simulink library just take care that it is reflected by your MATLAB path settings.
+
